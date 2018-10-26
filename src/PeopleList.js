@@ -1,5 +1,5 @@
 import React, { Component} from 'react';
-import PeopleList extends './PeopleList';
+import PeopleList from './PeopleList';
 
 class PeopleList extends Component {
 
